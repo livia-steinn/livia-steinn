@@ -18,8 +18,12 @@
     <img src="https://img.shields.io/badge/GitHub-livia--steinn-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Lívia Stein" />
   </a>
   <img src="https://img.shields.io/badge/Status-Em%20aprendizagem-FF4F9A?style=for-the-badge&logo=bookstack&logoColor=white" alt="Status em aprendizagem" />
-  <img src="https://img.shields.io/badge/Foco-Tecnologia%20e%20inova%C3%A7%C3%A3o-8E2DE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Foco em tecnologia e inovação" />
+  <img src="https://img.shields.io/badge/Foco-Tecnologia%20e%20inova%C3%A7%C3%A3o-D63384?style=for-the-badge&logo=rocket&logoColor=white" alt="Foco em tecnologia e inovação" />
 </p>
+
+<div align="center">
+  <img width="100%" src="./tech-strip-livia.svg" alt="Banner rosa de tecnologia em construção" />
+</div>
 
 ---
 
@@ -47,8 +51,8 @@ Projetos práticos   █████████████░░░░░░�
 <p>
   <img src="https://img.shields.io/badge/Python-FF4F9A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E83E8C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-8E2DE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Backend-6F2DBD?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/JavaScript-D63384?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Backend-C9184A?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend" />
 </p>
 
 ### Ferramentas e ambiente
@@ -108,6 +112,10 @@ Mais uma etapa da minha formação e dos meus experimentos no desenvolvimento de
   <p>Estou a transformar cada aula e cada exercício numa nova oportunidade para construir o meu futuro na tecnologia.</p>
 </div>
 
+<div align="center">
+  <img width="100%" src="./tech-strip-livia.svg" alt="Faixa rosa com código e criatividade" />
+</div>
+
 ```javascript
 const livia = {
   area: "Desenvolvimento de Sistemas",
@@ -135,7 +143,9 @@ const livia = {
 <div align="center">
   <br />
   <img src="https://img.shields.io/badge/Feito%20com-c%C3%B3digo%20e%20criatividade-FF4F9A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Feito com código e criatividade" />
-  <img src="https://img.shields.io/badge/Sempre%20a%20aprender-8E2DE2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Sempre a aprender" />
+  <img src="https://img.shields.io/badge/Sempre%20a%20aprender-D63384?style=for-the-badge&logo=bookstack&logoColor=white" alt="Sempre a aprender" />
   <br /><br />
   <strong>Code, criatividade e tecnologia — um projeto de cada vez.</strong>
+  <br /><br />
+  <img width="100%" src="./footer-tech-livia.svg" alt="Banner de rodapé rosa com estética de terminal" />
 </div>

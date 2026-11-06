@@ -1,0 +1,25 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tecnologia, código e criatividade</title>
+  <desc id="desc">Faixa decorativa rosa com linhas de código e elementos tecnológicos.</desc>
+  <defs>
+    <linearGradient id="pink" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9184A"/>
+      <stop offset="0.5" stop-color="#FF4F9A"/>
+      <stop offset="1" stop-color="#FF8FAB"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#fff" stroke-opacity="0.13"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="150" rx="22" fill="url(#pink)"/>
+  <rect width="1200" height="150" rx="22" fill="url(#grid)"/>
+  <g stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <path d="M110 55L82 75l28 20M150 55l28 20-28 20M140 48l-24 54"/>
+    <rect x="955" y="40" width="115" height="70" rx="10"/>
+    <path d="M955 59h115M973 50h2M985 50h2M997 50h2M980 80l13 10 20-20M1033 90h20"/>
+  </g>
+  <g fill="#fff">
+    <text x="230" y="68" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">TECNOLOGIA EM CONSTRUÇÃO</text>
+    <text x="230" y="99" font-family="Arial, Helvetica, sans-serif" font-size="17" opacity="0.9">código • criatividade • aprendizagem contínua</text>
+  </g>
+</svg>
