@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F9A,45:FF79B0,100:8E2DE2&height=230&section=header&text=L%C3%ADvia%20Stein&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%3C%2F%3E%20Desenvolvimento%20de%20Sistemas%20%7C%20Tecnologia%20e%20Inova%C3%A7%C3%A3o&descAlignY=62&descSize=16" alt="Banner tecnológico rosa de Lívia Stein" />
+  <img width="100%" src="./banner-livia-stein.svg" alt="Banner tecnológico rosa de Lívia Stein" />
 </div>
 
 <h3 align="center">Olá! Sou a Lívia — a criar, aprender e transformar ideias em código 💻</h3>
@@ -49,6 +49,4 @@ Tenho interesse em programação e desenvolvimento web. Gosto de aprender atrav�
 
 <div align="center">
   <strong>Code, criatividade e tecnologia — um projeto de cada vez.</strong>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,45:FF79B0,100:FF4F9A&height=100&section=footer" alt="Rodapé tecnológico rosa" />
 </div>
